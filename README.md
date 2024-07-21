@@ -8,8 +8,13 @@
 - Wires
 
 ## Step 1: Build the circuit
+
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/a02cae14-b754-483c-8c8a-8406aaf1eed0">
 
+## notes:
+- When connecting the servo to the breadboard using pins, the brown would go to the ground bus, the red wire would go to the power bus, and the orange would go to one of the arduino's digital pins.
+- the number/type of Batteries may change According to the number of Servo motors
+  
 ## step 2 : write the code
 i have explained every part of code here:
 ```
